@@ -1,0 +1,5 @@
+#!/bin/bash
+for fruit in pinneaple guava lemon berries
+do
+echo "The fruit is $fruit"
+done
